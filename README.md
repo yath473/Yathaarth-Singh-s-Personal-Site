@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Personal Site
-
 A personal website with a **Word Palette** feature: type any word and get a deterministic five-colour palette. Click a swatch to copy its colour. No frameworks, no dependencies.
 
 Live site: `https://yath473.github.io/personal-site/`
@@ -45,4 +42,3 @@ Claude (Anthropic) generated the initial code, tests, workflows, and this README
 - Placeholder personal content must be replaced with your own.
 =======
 # Yathaarth-Singh-s-Personal-Site
->>>>>>> dd18284b24fa8ad1675c5b7266451f16a338ab62
