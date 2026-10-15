@@ -1,0 +1,13 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "Personal website with an interactive word-to-palette generator",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "build": "rm -rf dist && mkdir dist && cp index.html style.css dist/ && cp -r src dist/src",
+    "start": "npx --yes serve ."
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
